@@ -80,7 +80,7 @@ if 'DYNO' in environ:
     ON_HEROKU = True
 else:
     ON_HEROKU = False
-URL = environ.get("URL", "https://testofvjfilter-1fa60b1b8498.herokuapp.com/")
+URL = environ.get("URL", "sexual-isabelle-moviebanaopaisebachao-1ff8384e.koyeb.app/")
 
 
 # Don't Remove Credit Tg - @VJ_Botz
